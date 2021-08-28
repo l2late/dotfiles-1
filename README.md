@@ -23,4 +23,3 @@ Rice made with [Gruvbox](https://github.com/morhetz/gruvbox) color-scheme
 ### Others
 
   - I use some Gruvbox-based themes for other aplications like [BetterDiscord](https://github.com/CircuitRCAY/Duvbox/blob/master/duvbox.css), to add it to your BetterDiscord, just copy that code and paste it into 'Custom CSS' BetterDiscord's section.
-  - Im still configuring Firefox, i'll upgrade this.
