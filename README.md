@@ -1,7 +1,7 @@
 # dotfiles
 
-![alt text](https://github.com/BetThical/dotfiles/master/images/screenshot.png)
-![alt text](https://github.com/BetThical/dotfiles/master/images/screenshot2.png)
+![alt text](https://github.com/BetThical/dotfiles/blob/master/images/screeenshot.png)
+![alt text](https://github.com/BetThical/dotfiles/blob/master/images/screeenshot2.png)
 
 
 Rice made with [Gruvbox](https://github.com/morhetz/gruvbox) color-scheme
@@ -17,7 +17,8 @@ Rice made with [Gruvbox](https://github.com/morhetz/gruvbox) color-scheme
   - neovim
   - neofetch
   - gotop
-  - picom 
+  - picom
+  - pulseaudio 
 
 ### Others
 
