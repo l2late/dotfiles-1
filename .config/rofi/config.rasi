@@ -1,0 +1,4 @@
+configuration {
+	font: "Caskaydia Cove Nerd Font 12";
+	theme: "~/.config/rofi/themes/gruvbox/gruvbox-dark.rasi";
+}
